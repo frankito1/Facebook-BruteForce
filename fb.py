@@ -60,3 +60,4 @@ if __name__ == "__main__":
         print("Trying password [", index, "]: ", password)
         if is_this_a_password(email, index, password):
             break
+
